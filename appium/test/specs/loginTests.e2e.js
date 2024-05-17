@@ -1,9 +1,9 @@
-const accountScreen = require('../screens/accountScreen');
-const accountScreenElements = require('../elements/accountScreenElements');
+const loginScreen = require('../screens/loginScreen');
+const loginScreenElements = require('../elements/loginScreenElements');
 const commonScreen = require('../screens/commonScreen');
 const commonScreenElements = require('../elements/commonScreenElements');
 
-const AccountScreen = new accountScreen();
+const LoginScreen = new loginScreen();
 const CommonScreen = new commonScreen();
 
 describe('Login to the app', () => {
