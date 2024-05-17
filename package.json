@@ -7,7 +7,6 @@
     "androidTests": "npx wdio appium/wdio.android.local.conf.js",
     "androidTestsSauceLabs": "npx wdio appium/wdio.android.saucelabs.conf.js",
     "iosTests": "npx wdio appium/wdio.ios.local.conf.js",
-    "iosTests": "npx wdio appium/wdio.ios.local.conf.js",
     "iosTestsSauceLabs": "npx wdio appium/wdio.ios.saucelabs.conf.js"
   },
   "author": "Mr. Przemek",
